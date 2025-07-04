@@ -1,2 +1,0 @@
-# NEWS-PLACE
-Information Redefined
